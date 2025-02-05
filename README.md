@@ -1,2 +1,1 @@
-# Data-Analytics-Projects
-A collection of my data analytics projects, covering predictive modeling, ETL automation, and business intelligence.
+Analyzed Lionel Messi’s evolution at Barcelona using event data from StatsBomb. Leveraged Python (StatsBombPy, MPLSoccer) for data extraction, preprocessing, and visualization. Conducted era-wise player movement, passing, playmaking, and shooting analysis, generating insights on performance trends. Developed statistical models for expected goals (xG) and passing efficiency to demonstrate Messi’s impact across different playing styles.
